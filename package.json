@@ -1,0 +1,16 @@
+{
+  "name": "twilio",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "twilio": "*",
+    "mongoose": "^4.4.17",
+    "dotenv": "~2.0.0"
+  }
+}
